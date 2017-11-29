@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Homework using media queries
+# Basic_Portfolio
+Portfolio page 1st HW Assignment
